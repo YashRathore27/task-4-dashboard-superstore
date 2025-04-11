@@ -1,5 +1,5 @@
 
-#  Superstore Sales Dashboard – Task 3 (Data Analyst Internship)
+#  Superstore Sales Dashboard – Task 4 (Data Analyst Internship)
 
 This project is part of Task 3 of a Data Analyst Internship, focused on designing an interactive dashboard using Tableau for business stakeholders. The dashboard analyzes retail sales data from the popular Superstore dataset.
 
